@@ -1,0 +1,500 @@
+Arrange the grid pattern oval, grid pattern oval, and grid pattern triangle in a triangle formation, ignore the striped pattern rectangle
+Use the striped pattern rectangle as base and arrange striped pattern square and striped pattern square on it, exclude the striped pattern rectangle
+Create a cluster with grid pattern circle, striped pattern triangle, and dotted pattern rectangle, do not include the dotted pattern square
+Create a cross formation with striped pattern oval at center and grid pattern triangle, checkered pattern oval, solid shape oval at the arms
+Form a line with checkered pattern rectangle, striped pattern circle, checkered pattern circle, and solid shape square from left to right
+Position the dotted pattern oval to the left of the solid shape oval, do not use the striped pattern oval or solid shape square
+Stack dotted pattern triangle on checkered pattern oval vertically and grid pattern circle on solid shape oval vertically, then place both stacks side by side
+Use only the primary striped pattern circle, grid pattern rectangle, and striped pattern circle in a triangle formation. Ignore any small objects within the images and exclude the striped pattern square.
+Create a cross formation with checkered pattern circle at center and solid shape rectangle, grid pattern triangle, striped pattern rectangle at the arms
+Place the dotted pattern rectangle and checkered pattern triangle on top of the checkered pattern square background, ignore the striped pattern rectangle
+Use the checkered pattern square as base and arrange solid shape rectangle and striped pattern square on it, exclude the dotted pattern square
+Form a line with grid pattern square, checkered pattern circle, dotted pattern triangle, and grid pattern square from left to right
+Form a line with checkered pattern triangle, grid pattern square, dotted pattern rectangle, and checkered pattern circle from left to right
+Overlap the striped pattern circle with the grid pattern square, ignore the remaining shapes
+Place the dotted pattern rectangle, solid shape rectangle, and striped pattern rectangle in a horizontal line, do not use the dotted pattern triangle
+Stack striped pattern rectangle on grid pattern oval vertically and checkered pattern rectangle on grid pattern square vertically, then place both stacks side by side
+Place the dotted pattern square, striped pattern square, and striped pattern rectangle in a horizontal line, do not use the solid shape triangle
+Create a cluster with dotted pattern square, dotted pattern circle, and solid shape circle, do not include the checkered pattern rectangle
+Use only the primary checkered pattern circle, striped pattern circle, and grid pattern square in a triangle formation. Ignore any small objects within the images and exclude the grid pattern circle.
+Create a cross formation with grid pattern circle at center and striped pattern rectangle, striped pattern rectangle, grid pattern circle at the arms
+Use only the primary striped pattern rectangle, checkered pattern rectangle, and dotted pattern circle in a triangle formation. Ignore any small objects within the images and exclude the striped pattern oval.
+Place the striped pattern square and dotted pattern square on top of the solid shape circle background, ignore the solid shape triangle
+Stack the checkered pattern rectangle on striped pattern circle and place checkered pattern oval beside them, ignore the solid shape square
+Stack the checkered pattern oval on solid shape square and place dotted pattern square beside them, ignore the solid shape rectangle
+Overlap the dotted pattern square with the solid shape oval, ignore the remaining shapes
+Overlap the solid shape oval with the grid pattern triangle, ignore the remaining shapes
+Arrange the solid shape triangle and checkered pattern triangle side by side, exclude the solid shape rectangle and striped pattern oval
+Put the solid shape triangle below the grid pattern square, ignore other shapes
+Place the checkered pattern circle and grid pattern triangle on top of the dotted pattern triangle background, ignore the checkered pattern triangle
+Form a line with dotted pattern oval, grid pattern triangle, dotted pattern oval, and grid pattern circle from left to right
+Layer striped pattern rectangle and checkered pattern circle over the solid shape circle backdrop, do not use the checkered pattern circle
+Create a cross formation with checkered pattern triangle at center and dotted pattern square, dotted pattern rectangle, checkered pattern circle at the arms
+Stack checkered pattern square on striped pattern circle vertically and dotted pattern circle on grid pattern circle vertically, then place both stacks side by side
+Put the striped pattern square in center with grid pattern oval and dotted pattern circle around it, exclude the solid shape square
+Overlap the checkered pattern rectangle with the solid shape oval, ignore the remaining shapes
+Focus only on the main dotted pattern oval and checkered pattern oval, arrange them side by side. Ignore all small distractor objects and the dotted pattern triangle, solid shape square.
+Layer striped pattern rectangle and grid pattern triangle over the dotted pattern oval backdrop, do not use the grid pattern circle
+Focus only on the main solid shape circle and solid shape rectangle, arrange them side by side. Ignore all small distractor objects and the dotted pattern rectangle, grid pattern rectangle.
+Layer checkered pattern rectangle and solid shape square over the checkered pattern circle backdrop, do not use the striped pattern circle
+Arrange the grid pattern oval and solid shape square side by side, exclude the dotted pattern square and checkered pattern square
+Place striped pattern circle and solid shape triangle in the center with checkered pattern rectangle and dotted pattern rectangle surrounding them
+Focus only on the main dotted pattern circle and solid shape square, arrange them side by side. Ignore all small distractor objects and the dotted pattern triangle, solid shape oval.
+Put the striped pattern circle below the striped pattern oval, ignore other shapes
+Focus only on the main solid shape triangle and solid shape rectangle, arrange them side by side. Ignore all small distractor objects and the solid shape circle, striped pattern square.
+Use the grid pattern square as base and arrange dotted pattern circle and grid pattern circle on it, exclude the striped pattern oval
+Create a cluster with striped pattern rectangle, striped pattern oval, and solid shape triangle, do not include the checkered pattern circle
+Overlap the dotted pattern rectangle with the striped pattern triangle, ignore the remaining shapes
+Create a cross formation with grid pattern circle at center and solid shape rectangle, solid shape square, grid pattern square at the arms
+Layer grid pattern circle and striped pattern square over the solid shape square backdrop, do not use the grid pattern circle
+Place the striped pattern oval on top of the dotted pattern oval, ignore the dotted pattern triangle and solid shape rectangle
+Put the striped pattern square in center with solid shape oval and solid shape square around it, exclude the solid shape oval
+Layer dotted pattern triangle and striped pattern rectangle over the checkered pattern triangle backdrop, do not use the dotted pattern oval
+Arrange the striped pattern rectangle, solid shape circle, and striped pattern square in a triangle formation, ignore the solid shape rectangle
+Put the dotted pattern rectangle below the grid pattern square, ignore other shapes
+Layer striped pattern square and dotted pattern oval over the checkered pattern oval backdrop, do not use the solid shape square
+Put the checkered pattern circle in center with checkered pattern oval and checkered pattern oval around it, exclude the striped pattern circle
+Place the striped pattern rectangle and striped pattern circle on top of the dotted pattern oval background, ignore the dotted pattern circle
+Focus only on the main striped pattern circle and striped pattern square, arrange them side by side. Ignore all small distractor objects and the striped pattern oval, solid shape circle.
+Use only the primary solid shape triangle, striped pattern circle, and checkered pattern circle in a triangle formation. Ignore any small objects within the images and exclude the solid shape square.
+Put the checkered pattern square in center with checkered pattern square and grid pattern oval around it, exclude the striped pattern rectangle
+Position the checkered pattern oval to the left of the striped pattern circle, do not use the checkered pattern circle or checkered pattern circle
+Arrange the striped pattern circle, solid shape circle, and striped pattern oval in a triangle formation, ignore the dotted pattern square
+Arrange the grid pattern oval and solid shape oval side by side, exclude the grid pattern square and dotted pattern circle
+Create a cluster with grid pattern circle, striped pattern oval, and solid shape square, do not include the grid pattern square
+Position the striped pattern oval to the left of the striped pattern triangle, do not use the checkered pattern square or dotted pattern oval
+Use only the primary striped pattern square, dotted pattern triangle, and dotted pattern rectangle in a triangle formation. Ignore any small objects within the images and exclude the solid shape rectangle.
+Arrange the solid shape triangle, checkered pattern circle, and striped pattern oval in a triangle formation, ignore the solid shape circle
+Overlap the striped pattern square with the checkered pattern triangle, ignore the remaining shapes
+Use the dotted pattern circle as base and arrange grid pattern oval and grid pattern rectangle on it, exclude the striped pattern triangle
+Arrange the grid pattern triangle and solid shape circle side by side, exclude the grid pattern oval and striped pattern square
+Stack checkered pattern oval on grid pattern circle vertically and solid shape rectangle on checkered pattern oval vertically, then place both stacks side by side
+Use only the primary checkered pattern triangle, checkered pattern oval, and checkered pattern circle in a triangle formation. Ignore any small objects within the images and exclude the checkered pattern oval.
+Layer solid shape oval and checkered pattern circle over the dotted pattern oval backdrop, do not use the grid pattern rectangle
+Create a cross formation with striped pattern rectangle at center and striped pattern triangle, solid shape rectangle, grid pattern square at the arms
+Use the striped pattern circle as base and arrange solid shape triangle and dotted pattern circle on it, exclude the striped pattern square
+Create a cross formation with grid pattern rectangle at center and striped pattern triangle, solid shape circle, grid pattern rectangle at the arms
+Put the checkered pattern rectangle below the grid pattern square, ignore other shapes
+Use the striped pattern circle as base and arrange grid pattern triangle and grid pattern circle on it, exclude the checkered pattern rectangle
+Overlap the striped pattern circle with the checkered pattern oval, ignore the remaining shapes
+Arrange the striped pattern square and grid pattern rectangle side by side, exclude the dotted pattern rectangle and striped pattern oval
+Use only the primary grid pattern oval, checkered pattern rectangle, and dotted pattern triangle in a triangle formation. Ignore any small objects within the images and exclude the striped pattern oval.
+Arrange all four objects: solid shape triangle, checkered pattern triangle, solid shape oval, and dotted pattern circle in a 2x2 grid formation
+Put the dotted pattern triangle in center with dotted pattern rectangle and dotted pattern oval around it, exclude the checkered pattern circle
+Position the grid pattern rectangle to the left of the solid shape rectangle, do not use the grid pattern rectangle or checkered pattern oval
+Create a cluster with grid pattern square, checkered pattern square, and striped pattern oval, do not include the checkered pattern circle
+Focus only on the main striped pattern oval and solid shape oval, arrange them side by side. Ignore all small distractor objects and the checkered pattern circle, striped pattern rectangle.
+Form a line with grid pattern oval, striped pattern square, solid shape triangle, and solid shape triangle from left to right
+Arrange all four objects: striped pattern oval, checkered pattern rectangle, dotted pattern circle, and solid shape triangle in a 2x2 grid formation
+Use the dotted pattern square as base and arrange solid shape triangle and dotted pattern square on it, exclude the dotted pattern oval
+Layer striped pattern square and striped pattern triangle over the dotted pattern square backdrop, do not use the striped pattern rectangle
+Arrange the striped pattern oval, dotted pattern circle, and striped pattern triangle in a triangle formation, ignore the solid shape oval
+Use only the primary checkered pattern triangle, striped pattern circle, and checkered pattern triangle in a triangle formation. Ignore any small objects within the images and exclude the striped pattern circle.
+Overlap the striped pattern triangle with the checkered pattern square, ignore the remaining shapes
+Position the grid pattern triangle to the left of the solid shape circle, do not use the checkered pattern oval or dotted pattern circle
+Place the dotted pattern triangle on top of the striped pattern square, ignore the dotted pattern circle and checkered pattern square
+Put the solid shape square below the checkered pattern triangle, ignore other shapes
+Arrange all four objects: dotted pattern circle, solid shape oval, dotted pattern oval, and checkered pattern oval in a 2x2 grid formation
+Place the grid pattern rectangle on top of the grid pattern square, ignore the grid pattern square and solid shape circle
+Overlap the dotted pattern circle with the grid pattern rectangle, ignore the remaining shapes
+Place the dotted pattern oval on top of the checkered pattern oval, ignore the grid pattern rectangle and striped pattern circle
+Arrange the grid pattern circle and striped pattern triangle side by side, exclude the solid shape triangle and grid pattern rectangle
+Arrange the dotted pattern square and solid shape circle side by side, exclude the dotted pattern square and grid pattern rectangle
+Position the striped pattern triangle to the left of the grid pattern circle, do not use the checkered pattern square or striped pattern rectangle
+Use only the primary grid pattern triangle, checkered pattern rectangle, and solid shape rectangle in a triangle formation. Ignore any small objects within the images and exclude the solid shape rectangle.
+Arrange the striped pattern triangle, striped pattern triangle, and dotted pattern rectangle in a triangle formation, ignore the solid shape circle
+Place dotted pattern square and solid shape square in the center with solid shape circle and checkered pattern oval surrounding them
+Place the striped pattern circle and checkered pattern oval on top of the grid pattern oval background, ignore the checkered pattern square
+Use the solid shape square as base and arrange striped pattern square and dotted pattern circle on it, exclude the grid pattern rectangle
+Stack the solid shape triangle on dotted pattern triangle and place dotted pattern triangle beside them, ignore the checkered pattern rectangle
+Layer checkered pattern square and grid pattern circle over the grid pattern rectangle backdrop, do not use the checkered pattern triangle
+Position the grid pattern oval to the left of the grid pattern triangle, do not use the dotted pattern square or dotted pattern square
+Use the checkered pattern circle as base and arrange checkered pattern triangle and checkered pattern oval on it, exclude the solid shape circle
+Place striped pattern triangle and checkered pattern circle in the center with solid shape rectangle and checkered pattern square surrounding them
+Place the dotted pattern square and solid shape circle on top of the solid shape triangle background, ignore the solid shape rectangle
+Focus only on the main checkered pattern triangle and solid shape circle, arrange them side by side. Ignore all small distractor objects and the solid shape circle, solid shape rectangle.
+Overlap the checkered pattern rectangle with the solid shape triangle, ignore the remaining shapes
+Layer checkered pattern rectangle and solid shape rectangle over the striped pattern rectangle backdrop, do not use the checkered pattern oval
+Focus only on the main solid shape oval and striped pattern oval, arrange them side by side. Ignore all small distractor objects and the striped pattern oval, striped pattern rectangle.
+Place the solid shape oval and striped pattern rectangle on top of the dotted pattern triangle background, ignore the dotted pattern square
+Use the striped pattern square as base and arrange checkered pattern triangle and grid pattern oval on it, exclude the checkered pattern rectangle
+Use only the primary striped pattern triangle, grid pattern square, and striped pattern oval in a triangle formation. Ignore any small objects within the images and exclude the checkered pattern oval.
+Arrange the striped pattern triangle and striped pattern triangle side by side, exclude the striped pattern oval and grid pattern rectangle
+Use only the primary solid shape rectangle, checkered pattern oval, and grid pattern triangle in a triangle formation. Ignore any small objects within the images and exclude the dotted pattern square.
+Place striped pattern rectangle and checkered pattern triangle in the center with striped pattern circle and dotted pattern oval surrounding them
+Position the grid pattern rectangle to the left of the checkered pattern triangle, do not use the striped pattern square or grid pattern oval
+Place the solid shape triangle and solid shape circle on top of the grid pattern triangle background, ignore the solid shape oval
+Focus only on the main striped pattern rectangle and striped pattern rectangle, arrange them side by side. Ignore all small distractor objects and the grid pattern circle, solid shape oval.
+Put the dotted pattern square below the grid pattern oval, ignore other shapes
+Put the solid shape triangle below the solid shape oval, ignore other shapes
+Create a cluster with dotted pattern triangle, striped pattern circle, and striped pattern rectangle, do not include the striped pattern square
+Focus only on the main dotted pattern rectangle and dotted pattern triangle, arrange them side by side. Ignore all small distractor objects and the grid pattern square, dotted pattern oval.
+Place the dotted pattern square and solid shape oval on top of the dotted pattern rectangle background, ignore the striped pattern triangle
+Stack the dotted pattern circle on solid shape oval and place grid pattern circle beside them, ignore the solid shape oval
+Stack the solid shape triangle on solid shape rectangle and place dotted pattern rectangle beside them, ignore the checkered pattern triangle
+Layer striped pattern rectangle and striped pattern rectangle over the striped pattern triangle backdrop, do not use the dotted pattern triangle
+Place striped pattern square and striped pattern rectangle in the center with dotted pattern oval and dotted pattern circle surrounding them
+Stack the grid pattern square on dotted pattern circle and place grid pattern oval beside them, ignore the dotted pattern triangle
+Use the solid shape circle as base and arrange checkered pattern rectangle and striped pattern circle on it, exclude the striped pattern oval
+Overlap the dotted pattern triangle with the checkered pattern circle, ignore the remaining shapes
+Stack checkered pattern circle on grid pattern oval vertically and dotted pattern square on solid shape square vertically, then place both stacks side by side
+Arrange all four objects: grid pattern circle, solid shape rectangle, solid shape square, and checkered pattern triangle in a 2x2 grid formation
+Arrange all four objects: checkered pattern oval, solid shape rectangle, striped pattern oval, and checkered pattern square in a 2x2 grid formation
+Arrange the dotted pattern square, dotted pattern circle, and solid shape square in a triangle formation, ignore the dotted pattern rectangle
+Overlap the striped pattern oval with the solid shape triangle, ignore the remaining shapes
+Create a cross formation with striped pattern triangle at center and dotted pattern oval, grid pattern triangle, solid shape circle at the arms
+Stack the striped pattern rectangle on striped pattern square and place striped pattern triangle beside them, ignore the dotted pattern oval
+Place the solid shape triangle and solid shape circle on top of the checkered pattern oval background, ignore the grid pattern triangle
+Use only the primary checkered pattern oval, dotted pattern square, and grid pattern triangle in a triangle formation. Ignore any small objects within the images and exclude the striped pattern rectangle.
+Form a line with solid shape triangle, checkered pattern rectangle, grid pattern triangle, and solid shape circle from left to right
+Use only the primary dotted pattern rectangle, solid shape oval, and solid shape rectangle in a triangle formation. Ignore any small objects within the images and exclude the grid pattern circle.
+Put the dotted pattern square in center with dotted pattern square and grid pattern square around it, exclude the striped pattern oval
+Place the striped pattern triangle on top of the grid pattern square, ignore the dotted pattern oval and checkered pattern oval
+Arrange the checkered pattern triangle and checkered pattern oval side by side, exclude the checkered pattern oval and striped pattern rectangle
+Arrange the grid pattern triangle and striped pattern circle side by side, exclude the checkered pattern triangle and grid pattern circle
+Overlap the grid pattern oval with the checkered pattern triangle, ignore the remaining shapes
+Create a cross formation with striped pattern circle at center and dotted pattern circle, checkered pattern triangle, dotted pattern oval at the arms
+Place the solid shape triangle, dotted pattern oval, and dotted pattern rectangle in a horizontal line, do not use the checkered pattern triangle
+Layer striped pattern circle and striped pattern triangle over the checkered pattern square backdrop, do not use the grid pattern oval
+Create a cross formation with grid pattern circle at center and dotted pattern rectangle, grid pattern circle, solid shape rectangle at the arms
+Use the solid shape triangle as base and arrange grid pattern oval and grid pattern triangle on it, exclude the grid pattern rectangle
+Arrange the grid pattern square and solid shape square side by side, exclude the solid shape oval and dotted pattern square
+Put the grid pattern oval in center with grid pattern circle and grid pattern rectangle around it, exclude the striped pattern triangle
+Layer dotted pattern square and grid pattern rectangle over the striped pattern rectangle backdrop, do not use the checkered pattern rectangle
+Place dotted pattern oval and solid shape square in the center with grid pattern circle and solid shape square surrounding them
+Place the solid shape triangle on top of the grid pattern oval, ignore the checkered pattern rectangle and solid shape oval
+Layer solid shape oval and grid pattern rectangle over the dotted pattern square backdrop, do not use the checkered pattern oval
+Put the solid shape triangle below the checkered pattern triangle, ignore other shapes
+Create a cluster with dotted pattern square, solid shape oval, and checkered pattern square, do not include the checkered pattern triangle
+Place the grid pattern triangle, grid pattern square, and checkered pattern oval in a horizontal line, do not use the striped pattern square
+Layer dotted pattern square and dotted pattern triangle over the checkered pattern oval backdrop, do not use the dotted pattern circle
+Place dotted pattern circle and dotted pattern square in the center with dotted pattern oval and dotted pattern square surrounding them
+Form a line with checkered pattern oval, striped pattern triangle, dotted pattern square, and checkered pattern oval from left to right
+Use the grid pattern square as base and arrange grid pattern rectangle and grid pattern rectangle on it, exclude the dotted pattern rectangle
+Place solid shape square and solid shape oval in the center with checkered pattern square and striped pattern square surrounding them
+Create a cluster with striped pattern rectangle, dotted pattern circle, and striped pattern circle, do not include the grid pattern oval
+Place the grid pattern triangle on top of the striped pattern triangle, ignore the dotted pattern triangle and dotted pattern triangle
+Focus only on the main grid pattern circle and striped pattern rectangle, arrange them side by side. Ignore all small distractor objects and the grid pattern triangle, solid shape oval.
+Overlap the striped pattern circle with the dotted pattern oval, ignore the remaining shapes
+Layer dotted pattern triangle and striped pattern square over the striped pattern triangle backdrop, do not use the solid shape square
+Use the checkered pattern circle as base and arrange dotted pattern circle and striped pattern rectangle on it, exclude the checkered pattern circle
+Place the checkered pattern square on top of the dotted pattern rectangle, ignore the solid shape square and dotted pattern triangle
+Use only the primary dotted pattern square, solid shape circle, and checkered pattern triangle in a triangle formation. Ignore any small objects within the images and exclude the grid pattern circle.
+Create a cluster with checkered pattern circle, striped pattern circle, and checkered pattern circle, do not include the checkered pattern triangle
+Layer dotted pattern rectangle and checkered pattern rectangle over the solid shape oval backdrop, do not use the checkered pattern oval
+Place the dotted pattern square, solid shape rectangle, and checkered pattern triangle in a horizontal line, do not use the checkered pattern circle
+Place the striped pattern oval and solid shape square on top of the dotted pattern triangle background, ignore the grid pattern square
+Layer solid shape oval and striped pattern square over the solid shape square backdrop, do not use the solid shape oval
+Focus only on the main dotted pattern circle and checkered pattern square, arrange them side by side. Ignore all small distractor objects and the solid shape square, dotted pattern square.
+Stack the grid pattern square on solid shape circle and place grid pattern square beside them, ignore the dotted pattern triangle
+Focus only on the main grid pattern rectangle and dotted pattern circle, arrange them side by side. Ignore all small distractor objects and the grid pattern square, checkered pattern rectangle.
+Place the solid shape circle, grid pattern oval, and grid pattern rectangle in a horizontal line, do not use the dotted pattern rectangle
+Put the dotted pattern triangle below the dotted pattern rectangle, ignore other shapes
+Create a cluster with dotted pattern rectangle, grid pattern circle, and checkered pattern circle, do not include the checkered pattern circle
+Place the grid pattern oval, solid shape oval, and grid pattern rectangle in a horizontal line, do not use the striped pattern oval
+Arrange the solid shape triangle and solid shape triangle side by side, exclude the striped pattern circle and solid shape rectangle
+Arrange all four objects: grid pattern rectangle, checkered pattern triangle, dotted pattern triangle, and checkered pattern square in a 2x2 grid formation
+Layer solid shape circle and solid shape circle over the grid pattern rectangle backdrop, do not use the striped pattern rectangle
+Use the checkered pattern square as base and arrange checkered pattern oval and solid shape square on it, exclude the solid shape square
+Create a diamond pattern with solid shape oval at top, grid pattern rectangle at bottom, striped pattern oval at left, and solid shape oval at right
+Create a cross formation with striped pattern rectangle at center and striped pattern oval, checkered pattern circle, solid shape oval at the arms
+Place the solid shape rectangle on top of the grid pattern oval, ignore the striped pattern oval and solid shape triangle
+Place the striped pattern circle and checkered pattern rectangle on top of the grid pattern circle background, ignore the checkered pattern rectangle
+Stack the striped pattern triangle on grid pattern triangle and place checkered pattern rectangle beside them, ignore the striped pattern circle
+Layer solid shape circle and dotted pattern triangle over the solid shape square backdrop, do not use the solid shape triangle
+Place the dotted pattern triangle and dotted pattern triangle on top of the solid shape oval background, ignore the dotted pattern square
+Place the checkered pattern rectangle and checkered pattern oval on top of the grid pattern circle background, ignore the dotted pattern triangle
+Arrange the grid pattern triangle and solid shape triangle side by side, exclude the solid shape triangle and striped pattern triangle
+Focus only on the main solid shape circle and dotted pattern triangle, arrange them side by side. Ignore all small distractor objects and the striped pattern oval, dotted pattern square.
+Use only the primary solid shape rectangle, solid shape rectangle, and striped pattern oval in a triangle formation. Ignore any small objects within the images and exclude the striped pattern oval.
+Position the dotted pattern rectangle to the left of the striped pattern rectangle, do not use the solid shape oval or grid pattern triangle
+Layer dotted pattern circle and striped pattern square over the checkered pattern circle backdrop, do not use the dotted pattern rectangle
+Arrange the solid shape square, solid shape circle, and dotted pattern rectangle in a triangle formation, ignore the checkered pattern square
+Create a cross formation with checkered pattern oval at center and striped pattern square, checkered pattern circle, dotted pattern square at the arms
+Focus only on the main checkered pattern square and grid pattern circle, arrange them side by side. Ignore all small distractor objects and the striped pattern triangle, checkered pattern rectangle.
+Place dotted pattern rectangle and grid pattern circle in the center with dotted pattern circle and striped pattern triangle surrounding them
+Position the solid shape rectangle to the left of the grid pattern triangle, do not use the dotted pattern oval or solid shape square
+Stack solid shape triangle on solid shape oval vertically and solid shape square on solid shape triangle vertically, then place both stacks side by side
+Create a cluster with dotted pattern square, dotted pattern triangle, and checkered pattern triangle, do not include the dotted pattern triangle
+Stack dotted pattern triangle on dotted pattern square vertically and grid pattern rectangle on dotted pattern square vertically, then place both stacks side by side
+Overlap the solid shape square with the striped pattern circle, ignore the remaining shapes
+Layer grid pattern oval and checkered pattern square over the solid shape square backdrop, do not use the grid pattern rectangle
+Position the striped pattern oval to the left of the dotted pattern oval, do not use the dotted pattern square or grid pattern square
+Focus only on the main checkered pattern rectangle and grid pattern triangle, arrange them side by side. Ignore all small distractor objects and the dotted pattern square, solid shape square.
+Focus only on the main solid shape circle and checkered pattern oval, arrange them side by side. Ignore all small distractor objects and the solid shape rectangle, checkered pattern circle.
+Use only the primary checkered pattern square, grid pattern rectangle, and striped pattern oval in a triangle formation. Ignore any small objects within the images and exclude the grid pattern triangle.
+Use only the primary dotted pattern oval, dotted pattern rectangle, and dotted pattern triangle in a triangle formation. Ignore any small objects within the images and exclude the checkered pattern oval.
+Stack striped pattern triangle on grid pattern circle vertically and checkered pattern triangle on grid pattern oval vertically, then place both stacks side by side
+Focus only on the main grid pattern oval and checkered pattern oval, arrange them side by side. Ignore all small distractor objects and the checkered pattern oval, dotted pattern circle.
+Arrange the dotted pattern triangle, striped pattern rectangle, and checkered pattern circle in a triangle formation, ignore the checkered pattern circle
+Put the grid pattern oval below the checkered pattern square, ignore other shapes
+Place striped pattern square and grid pattern triangle in the center with grid pattern triangle and solid shape circle surrounding them
+Focus only on the main grid pattern square and dotted pattern triangle, arrange them side by side. Ignore all small distractor objects and the striped pattern oval, checkered pattern oval.
+Focus only on the main checkered pattern circle and checkered pattern rectangle, arrange them side by side. Ignore all small distractor objects and the grid pattern circle, checkered pattern triangle.
+Place the checkered pattern triangle on top of the checkered pattern rectangle, ignore the solid shape rectangle and dotted pattern square
+Place the checkered pattern rectangle, dotted pattern square, and dotted pattern triangle in a horizontal line, do not use the grid pattern square
+Stack grid pattern rectangle on solid shape circle vertically and checkered pattern oval on checkered pattern triangle vertically, then place both stacks side by side
+Place the dotted pattern square, checkered pattern circle, and grid pattern square in a horizontal line, do not use the dotted pattern square
+Place solid shape square and solid shape square in the center with solid shape square and checkered pattern triangle surrounding them
+Put the grid pattern rectangle below the dotted pattern rectangle, ignore other shapes
+Place the checkered pattern rectangle and grid pattern circle on top of the grid pattern rectangle background, ignore the checkered pattern triangle
+Use only the primary grid pattern circle, striped pattern rectangle, and striped pattern circle in a triangle formation. Ignore any small objects within the images and exclude the dotted pattern circle.
+Stack the dotted pattern triangle on grid pattern circle and place grid pattern square beside them, ignore the solid shape oval
+Place the striped pattern square on top of the checkered pattern circle, ignore the checkered pattern square and solid shape circle
+Arrange the grid pattern rectangle and striped pattern triangle side by side, exclude the checkered pattern triangle and grid pattern rectangle
+Arrange the solid shape triangle, checkered pattern triangle, and checkered pattern oval in a triangle formation, ignore the dotted pattern rectangle
+Use only the primary dotted pattern oval, checkered pattern triangle, and grid pattern oval in a triangle formation. Ignore any small objects within the images and exclude the striped pattern oval.
+Create a cross formation with striped pattern circle at center and solid shape triangle, grid pattern circle, striped pattern triangle at the arms
+Use only the primary dotted pattern circle, striped pattern oval, and striped pattern oval in a triangle formation. Ignore any small objects within the images and exclude the dotted pattern oval.
+Layer solid shape triangle and grid pattern triangle over the grid pattern square backdrop, do not use the striped pattern triangle
+Create a cluster with dotted pattern rectangle, striped pattern triangle, and striped pattern rectangle, do not include the checkered pattern rectangle
+Put the grid pattern square below the checkered pattern square, ignore other shapes
+Place the striped pattern rectangle and checkered pattern circle on top of the checkered pattern square background, ignore the solid shape oval
+Place the dotted pattern square and striped pattern square on top of the solid shape oval background, ignore the dotted pattern circle
+Layer grid pattern square and checkered pattern oval over the dotted pattern oval backdrop, do not use the solid shape circle
+Focus only on the main dotted pattern oval and solid shape circle, arrange them side by side. Ignore all small distractor objects and the checkered pattern oval, grid pattern square.
+Arrange the dotted pattern circle and dotted pattern square side by side, exclude the checkered pattern triangle and grid pattern square
+Layer dotted pattern rectangle and grid pattern triangle over the checkered pattern circle backdrop, do not use the grid pattern circle
+Create a cross formation with checkered pattern circle at center and solid shape triangle, grid pattern oval, dotted pattern square at the arms
+Arrange all four objects: grid pattern triangle, striped pattern triangle, striped pattern rectangle, and solid shape triangle in a 2x2 grid formation
+Position the striped pattern oval to the left of the solid shape circle, do not use the dotted pattern oval or striped pattern oval
+Create a diamond pattern with solid shape oval at top, solid shape triangle at bottom, grid pattern circle at left, and checkered pattern triangle at right
+Put the striped pattern square below the solid shape square, ignore other shapes
+Use only the primary solid shape circle, dotted pattern circle, and solid shape circle in a triangle formation. Ignore any small objects within the images and exclude the solid shape rectangle.
+Arrange the grid pattern oval, solid shape triangle, and checkered pattern oval in a triangle formation, ignore the grid pattern oval
+Use only the primary dotted pattern circle, solid shape circle, and checkered pattern oval in a triangle formation. Ignore any small objects within the images and exclude the checkered pattern oval.
+Stack the solid shape square on grid pattern triangle and place grid pattern square beside them, ignore the solid shape circle
+Arrange the striped pattern triangle and solid shape rectangle side by side, exclude the striped pattern square and solid shape triangle
+Place the grid pattern oval on top of the solid shape triangle, ignore the grid pattern square and solid shape rectangle
+Form a line with grid pattern oval, striped pattern oval, grid pattern circle, and dotted pattern circle from left to right
+Use the striped pattern oval as base and arrange checkered pattern circle and dotted pattern triangle on it, exclude the dotted pattern triangle
+Create a cluster with dotted pattern rectangle, solid shape triangle, and solid shape triangle, do not include the checkered pattern triangle
+Position the dotted pattern oval to the left of the striped pattern circle, do not use the solid shape rectangle or striped pattern square
+Focus only on the main striped pattern rectangle and striped pattern rectangle, arrange them side by side. Ignore all small distractor objects and the solid shape triangle, grid pattern triangle.
+Place the grid pattern oval and grid pattern circle on top of the striped pattern triangle background, ignore the grid pattern rectangle
+Use only the primary solid shape circle, striped pattern circle, and checkered pattern oval in a triangle formation. Ignore any small objects within the images and exclude the striped pattern triangle.
+Place the dotted pattern oval and checkered pattern triangle on top of the solid shape rectangle background, ignore the solid shape rectangle
+Layer checkered pattern rectangle and checkered pattern circle over the grid pattern triangle backdrop, do not use the checkered pattern triangle
+Focus only on the main checkered pattern oval and striped pattern triangle, arrange them side by side. Ignore all small distractor objects and the checkered pattern square, dotted pattern triangle.
+Stack striped pattern oval on dotted pattern rectangle vertically and checkered pattern triangle on checkered pattern square vertically, then place both stacks side by side
+Layer solid shape oval and checkered pattern oval over the checkered pattern rectangle backdrop, do not use the checkered pattern square
+Put the dotted pattern triangle in center with checkered pattern triangle and striped pattern square around it, exclude the striped pattern oval
+Place dotted pattern square and grid pattern oval in the center with dotted pattern oval and grid pattern triangle surrounding them
+Stack the striped pattern rectangle on striped pattern triangle and place solid shape square beside them, ignore the striped pattern triangle
+Focus only on the main solid shape oval and dotted pattern rectangle, arrange them side by side. Ignore all small distractor objects and the solid shape oval, checkered pattern square.
+Put the dotted pattern circle below the checkered pattern triangle, ignore other shapes
+Arrange the dotted pattern triangle, dotted pattern rectangle, and striped pattern triangle in a triangle formation, ignore the solid shape oval
+Stack the checkered pattern triangle on striped pattern circle and place striped pattern oval beside them, ignore the solid shape circle
+Focus only on the main checkered pattern square and checkered pattern circle, arrange them side by side. Ignore all small distractor objects and the checkered pattern triangle, grid pattern triangle.
+Form a line with solid shape square, checkered pattern triangle, grid pattern oval, and solid shape rectangle from left to right
+Overlap the checkered pattern rectangle with the dotted pattern triangle, ignore the remaining shapes
+Layer dotted pattern square and striped pattern triangle over the solid shape circle backdrop, do not use the grid pattern square
+Place dotted pattern oval and dotted pattern oval in the center with striped pattern circle and checkered pattern oval surrounding them
+Focus only on the main solid shape oval and striped pattern triangle, arrange them side by side. Ignore all small distractor objects and the dotted pattern oval, solid shape circle.
+Create a cross formation with grid pattern circle at center and checkered pattern rectangle, striped pattern triangle, solid shape rectangle at the arms
+Layer checkered pattern rectangle and solid shape triangle over the dotted pattern rectangle backdrop, do not use the dotted pattern circle
+Use only the primary solid shape square, checkered pattern triangle, and striped pattern square in a triangle formation. Ignore any small objects within the images and exclude the checkered pattern triangle.
+Use only the primary dotted pattern triangle, dotted pattern triangle, and grid pattern circle in a triangle formation. Ignore any small objects within the images and exclude the grid pattern oval.
+Put the dotted pattern square in center with grid pattern square and checkered pattern square around it, exclude the grid pattern triangle
+Place grid pattern rectangle and checkered pattern triangle in the center with dotted pattern circle and striped pattern oval surrounding them
+Use only the primary solid shape circle, striped pattern triangle, and solid shape triangle in a triangle formation. Ignore any small objects within the images and exclude the dotted pattern oval.
+Focus only on the main grid pattern circle and checkered pattern rectangle, arrange them side by side. Ignore all small distractor objects and the solid shape rectangle, solid shape square.
+Focus only on the main grid pattern square and striped pattern square, arrange them side by side. Ignore all small distractor objects and the striped pattern circle, dotted pattern rectangle.
+Focus only on the main checkered pattern square and solid shape square, arrange them side by side. Ignore all small distractor objects and the solid shape rectangle, solid shape circle.
+Focus only on the main checkered pattern rectangle and grid pattern circle, arrange them side by side. Ignore all small distractor objects and the checkered pattern oval, solid shape triangle.
+Place grid pattern triangle and solid shape triangle in the center with grid pattern square and dotted pattern rectangle surrounding them
+Arrange all four objects: solid shape circle, grid pattern circle, dotted pattern rectangle, and checkered pattern square in a 2x2 grid formation
+Overlap the grid pattern triangle with the solid shape triangle, ignore the remaining shapes
+Put the dotted pattern triangle below the grid pattern triangle, ignore other shapes
+Stack dotted pattern circle on grid pattern circle vertically and grid pattern circle on grid pattern triangle vertically, then place both stacks side by side
+Use the solid shape oval as base and arrange dotted pattern square and striped pattern circle on it, exclude the solid shape oval
+Form a line with solid shape square, checkered pattern triangle, striped pattern oval, and checkered pattern square from left to right
+Use the striped pattern square as base and arrange checkered pattern oval and striped pattern triangle on it, exclude the grid pattern rectangle
+Position the checkered pattern triangle to the left of the striped pattern circle, do not use the checkered pattern oval or solid shape circle
+Arrange all four objects: grid pattern triangle, grid pattern oval, grid pattern circle, and striped pattern oval in a 2x2 grid formation
+Focus only on the main checkered pattern circle and dotted pattern oval, arrange them side by side. Ignore all small distractor objects and the solid shape circle, striped pattern rectangle.
+Use the grid pattern triangle as base and arrange striped pattern triangle and dotted pattern square on it, exclude the solid shape oval
+Put the solid shape circle below the dotted pattern rectangle, ignore other shapes
+Layer striped pattern oval and solid shape rectangle over the striped pattern oval backdrop, do not use the checkered pattern square
+Arrange the grid pattern square and dotted pattern oval side by side, exclude the solid shape oval and striped pattern rectangle
+Stack the dotted pattern rectangle on checkered pattern square and place striped pattern circle beside them, ignore the solid shape triangle
+Use only the primary checkered pattern oval, solid shape rectangle, and checkered pattern rectangle in a triangle formation. Ignore any small objects within the images and exclude the grid pattern oval.
+Use only the primary striped pattern oval, dotted pattern oval, and dotted pattern oval in a triangle formation. Ignore any small objects within the images and exclude the grid pattern oval.
+Use the grid pattern square as base and arrange solid shape square and grid pattern triangle on it, exclude the striped pattern circle
+Focus only on the main grid pattern rectangle and striped pattern rectangle, arrange them side by side. Ignore all small distractor objects and the grid pattern circle, dotted pattern square.
+Use the checkered pattern rectangle as base and arrange checkered pattern circle and solid shape triangle on it, exclude the dotted pattern circle
+Use the striped pattern oval as base and arrange grid pattern rectangle and solid shape triangle on it, exclude the grid pattern oval
+Stack solid shape rectangle on checkered pattern square vertically and checkered pattern square on striped pattern square vertically, then place both stacks side by side
+Arrange all four objects: grid pattern triangle, dotted pattern circle, checkered pattern circle, and checkered pattern triangle in a 2x2 grid formation
+Stack the striped pattern circle on dotted pattern rectangle and place checkered pattern triangle beside them, ignore the solid shape oval
+Layer checkered pattern circle and dotted pattern square over the checkered pattern triangle backdrop, do not use the striped pattern triangle
+Stack the striped pattern triangle on dotted pattern square and place checkered pattern rectangle beside them, ignore the solid shape circle
+Place the grid pattern triangle and dotted pattern oval on top of the striped pattern oval background, ignore the solid shape oval
+Position the striped pattern oval to the left of the dotted pattern oval, do not use the dotted pattern oval or solid shape square
+Layer dotted pattern rectangle and checkered pattern triangle over the grid pattern oval backdrop, do not use the solid shape triangle
+Create a cluster with solid shape rectangle, checkered pattern triangle, and solid shape oval, do not include the grid pattern oval
+Place the dotted pattern circle and dotted pattern square on top of the solid shape circle background, ignore the checkered pattern circle
+Create a cross formation with striped pattern oval at center and striped pattern oval, grid pattern oval, dotted pattern rectangle at the arms
+Create a cross formation with checkered pattern oval at center and dotted pattern oval, solid shape rectangle, dotted pattern square at the arms
+Arrange the solid shape square and dotted pattern triangle side by side, exclude the solid shape circle and striped pattern rectangle
+Stack the checkered pattern circle on striped pattern circle and place grid pattern oval beside them, ignore the checkered pattern square
+Focus only on the main dotted pattern oval and checkered pattern circle, arrange them side by side. Ignore all small distractor objects and the dotted pattern square, dotted pattern triangle.
+Layer grid pattern circle and solid shape rectangle over the striped pattern rectangle backdrop, do not use the striped pattern triangle
+Position the solid shape triangle to the left of the dotted pattern oval, do not use the checkered pattern square or striped pattern circle
+Overlap the checkered pattern rectangle with the dotted pattern triangle, ignore the remaining shapes
+Create a cluster with solid shape triangle, dotted pattern oval, and dotted pattern oval, do not include the striped pattern oval
+Put the striped pattern square in center with solid shape rectangle and checkered pattern rectangle around it, exclude the solid shape triangle
+Focus only on the main grid pattern rectangle and checkered pattern oval, arrange them side by side. Ignore all small distractor objects and the dotted pattern triangle, grid pattern oval.
+Place the dotted pattern square on top of the checkered pattern circle, ignore the striped pattern rectangle and checkered pattern triangle
+Use only the primary grid pattern oval, grid pattern square, and dotted pattern oval in a triangle formation. Ignore any small objects within the images and exclude the solid shape oval.
+Place striped pattern circle and solid shape rectangle in the center with striped pattern rectangle and striped pattern oval surrounding them
+Position the striped pattern triangle to the left of the checkered pattern square, do not use the solid shape triangle or grid pattern triangle
+Position the dotted pattern triangle to the left of the solid shape oval, do not use the dotted pattern rectangle or grid pattern oval
+Place the grid pattern square on top of the solid shape oval, ignore the grid pattern triangle and grid pattern circle
+Create a cross formation with grid pattern rectangle at center and solid shape triangle, grid pattern oval, grid pattern oval at the arms
+Arrange the dotted pattern triangle and checkered pattern square side by side, exclude the solid shape square and striped pattern oval
+Position the grid pattern triangle to the left of the grid pattern rectangle, do not use the dotted pattern circle or checkered pattern triangle
+Layer striped pattern circle and checkered pattern oval over the solid shape rectangle backdrop, do not use the solid shape oval
+Position the checkered pattern triangle to the left of the dotted pattern circle, do not use the solid shape triangle or striped pattern circle
+Stack the checkered pattern rectangle on solid shape rectangle and place dotted pattern square beside them, ignore the striped pattern rectangle
+Place checkered pattern rectangle and grid pattern circle in the center with grid pattern rectangle and dotted pattern oval surrounding them
+Use only the primary grid pattern square, striped pattern square, and dotted pattern rectangle in a triangle formation. Ignore any small objects within the images and exclude the striped pattern oval.
+Place the striped pattern oval and checkered pattern oval on top of the checkered pattern circle background, ignore the dotted pattern circle
+Layer striped pattern triangle and striped pattern oval over the solid shape square backdrop, do not use the solid shape rectangle
+Place striped pattern circle and checkered pattern rectangle in the center with grid pattern oval and grid pattern rectangle surrounding them
+Arrange all four objects: striped pattern rectangle, striped pattern rectangle, grid pattern circle, and solid shape triangle in a 2x2 grid formation
+Use the checkered pattern oval as base and arrange checkered pattern circle and grid pattern circle on it, exclude the dotted pattern rectangle
+Create a cross formation with striped pattern square at center and dotted pattern circle, solid shape rectangle, grid pattern triangle at the arms
+Arrange all four objects: checkered pattern circle, checkered pattern oval, dotted pattern rectangle, and striped pattern square in a 2x2 grid formation
+Layer dotted pattern triangle and dotted pattern rectangle over the solid shape oval backdrop, do not use the solid shape rectangle
+Arrange the striped pattern square, solid shape triangle, and grid pattern circle in a triangle formation, ignore the solid shape oval
+Use only the primary dotted pattern circle, checkered pattern circle, and checkered pattern triangle in a triangle formation. Ignore any small objects within the images and exclude the grid pattern triangle.
+Position the grid pattern rectangle to the left of the checkered pattern triangle, do not use the solid shape triangle or grid pattern triangle
+Place the grid pattern square, dotted pattern oval, and striped pattern circle in a horizontal line, do not use the striped pattern oval
+Put the striped pattern rectangle below the dotted pattern circle, ignore other shapes
+Stack the checkered pattern circle on grid pattern square and place dotted pattern square beside them, ignore the grid pattern rectangle
+Arrange the striped pattern oval and solid shape oval side by side, exclude the solid shape square and dotted pattern oval
+Arrange all four objects: dotted pattern square, solid shape triangle, solid shape circle, and striped pattern oval in a 2x2 grid formation
+Use only the primary dotted pattern circle, checkered pattern square, and checkered pattern oval in a triangle formation. Ignore any small objects within the images and exclude the solid shape triangle.
+Position the solid shape oval to the left of the solid shape triangle, do not use the grid pattern circle or grid pattern triangle
+Place the checkered pattern circle and solid shape circle on top of the solid shape square background, ignore the checkered pattern circle
+Put the solid shape triangle in center with dotted pattern square and grid pattern rectangle around it, exclude the checkered pattern circle
+Use the solid shape oval as base and arrange solid shape oval and checkered pattern triangle on it, exclude the solid shape circle
+Create a cluster with grid pattern circle, checkered pattern triangle, and solid shape rectangle, do not include the striped pattern square
+Arrange the solid shape triangle and striped pattern oval side by side, exclude the solid shape circle and checkered pattern triangle
+Focus only on the main striped pattern rectangle and grid pattern circle, arrange them side by side. Ignore all small distractor objects and the grid pattern triangle, dotted pattern rectangle.
+Put the solid shape triangle below the grid pattern triangle, ignore other shapes
+Use the grid pattern oval as base and arrange striped pattern circle and striped pattern oval on it, exclude the solid shape oval
+Arrange the grid pattern square, grid pattern triangle, and solid shape oval in a triangle formation, ignore the solid shape oval
+Focus only on the main solid shape triangle and checkered pattern circle, arrange them side by side. Ignore all small distractor objects and the dotted pattern triangle, checkered pattern circle.
+Focus only on the main grid pattern circle and striped pattern oval, arrange them side by side. Ignore all small distractor objects and the checkered pattern triangle, striped pattern oval.
+Overlap the solid shape triangle with the striped pattern circle, ignore the remaining shapes
+Use only the primary dotted pattern oval, striped pattern circle, and striped pattern triangle in a triangle formation. Ignore any small objects within the images and exclude the grid pattern triangle.
+Use the grid pattern circle as base and arrange dotted pattern rectangle and solid shape square on it, exclude the dotted pattern square
+Position the grid pattern square to the left of the checkered pattern rectangle, do not use the striped pattern oval or striped pattern triangle
+Create a cross formation with dotted pattern triangle at center and checkered pattern circle, grid pattern square, grid pattern rectangle at the arms
+Arrange the dotted pattern rectangle, dotted pattern oval, and grid pattern rectangle in a triangle formation, ignore the striped pattern circle
+Layer grid pattern circle and grid pattern circle over the grid pattern triangle backdrop, do not use the striped pattern triangle
+Use the grid pattern triangle as base and arrange solid shape circle and solid shape oval on it, exclude the dotted pattern rectangle
+Use the checkered pattern oval as base and arrange grid pattern square and solid shape rectangle on it, exclude the striped pattern oval
+Overlap the striped pattern oval with the grid pattern oval, ignore the remaining shapes
+Place the solid shape square and striped pattern rectangle on top of the solid shape rectangle background, ignore the dotted pattern triangle
+Form a line with grid pattern oval, solid shape rectangle, striped pattern triangle, and striped pattern oval from left to right
+Place the grid pattern circle, solid shape square, and solid shape triangle in a horizontal line, do not use the grid pattern triangle
+Use the dotted pattern circle as base and arrange dotted pattern rectangle and dotted pattern triangle on it, exclude the striped pattern circle
+Place the checkered pattern triangle on top of the checkered pattern triangle, ignore the solid shape triangle and dotted pattern rectangle
+Place the solid shape square on top of the dotted pattern triangle, ignore the solid shape square and checkered pattern circle
+Put the dotted pattern square in center with grid pattern triangle and striped pattern square around it, exclude the checkered pattern square
+Layer grid pattern triangle and dotted pattern circle over the checkered pattern triangle backdrop, do not use the solid shape rectangle
+Place the dotted pattern oval and grid pattern rectangle on top of the checkered pattern square background, ignore the checkered pattern triangle
+Focus only on the main dotted pattern rectangle and striped pattern square, arrange them side by side. Ignore all small distractor objects and the striped pattern rectangle, grid pattern square.
+Use only the primary checkered pattern square, solid shape square, and dotted pattern oval in a triangle formation. Ignore any small objects within the images and exclude the striped pattern triangle.
+Use the grid pattern circle as base and arrange dotted pattern rectangle and checkered pattern triangle on it, exclude the striped pattern oval
+Focus only on the main checkered pattern triangle and solid shape oval, arrange them side by side. Ignore all small distractor objects and the solid shape triangle, grid pattern circle.
+Stack the dotted pattern triangle on checkered pattern circle and place dotted pattern triangle beside them, ignore the grid pattern square
+Arrange the solid shape circle and striped pattern rectangle side by side, exclude the solid shape triangle and checkered pattern square
+Form a line with grid pattern oval, grid pattern circle, solid shape triangle, and solid shape triangle from left to right
+Arrange the grid pattern circle, solid shape square, and checkered pattern square in a triangle formation, ignore the striped pattern triangle
+Arrange the striped pattern square, solid shape circle, and checkered pattern circle in a triangle formation, ignore the checkered pattern rectangle
+Place the dotted pattern oval and solid shape square on top of the striped pattern oval background, ignore the checkered pattern triangle
+Place solid shape circle and dotted pattern circle in the center with striped pattern triangle and solid shape oval surrounding them
+Arrange the checkered pattern oval, solid shape oval, and dotted pattern triangle in a triangle formation, ignore the dotted pattern circle
+Use the solid shape circle as base and arrange grid pattern circle and checkered pattern square on it, exclude the checkered pattern rectangle
+Place the dotted pattern triangle on top of the striped pattern triangle, ignore the checkered pattern triangle and striped pattern rectangle
+Focus only on the main checkered pattern circle and grid pattern rectangle, arrange them side by side. Ignore all small distractor objects and the dotted pattern triangle, solid shape square.
+Use only the primary striped pattern circle, checkered pattern square, and solid shape rectangle in a triangle formation. Ignore any small objects within the images and exclude the grid pattern rectangle.
+Place grid pattern square and solid shape rectangle in the center with dotted pattern oval and solid shape square surrounding them
+Create a cluster with dotted pattern triangle, striped pattern square, and grid pattern circle, do not include the solid shape rectangle
+Stack the checkered pattern oval on dotted pattern rectangle and place grid pattern square beside them, ignore the solid shape circle
+Create a cluster with grid pattern square, striped pattern oval, and grid pattern rectangle, do not include the dotted pattern circle
+Place the grid pattern rectangle, dotted pattern rectangle, and grid pattern square in a horizontal line, do not use the checkered pattern square
+Create a cluster with dotted pattern triangle, striped pattern triangle, and dotted pattern rectangle, do not include the dotted pattern rectangle
+Use the dotted pattern rectangle as base and arrange striped pattern rectangle and grid pattern circle on it, exclude the dotted pattern rectangle
+Form a line with dotted pattern circle, grid pattern circle, checkered pattern rectangle, and striped pattern square from left to right
+Form a line with dotted pattern circle, dotted pattern oval, checkered pattern circle, and grid pattern circle from left to right
+Use only the primary dotted pattern rectangle, solid shape square, and solid shape rectangle in a triangle formation. Ignore any small objects within the images and exclude the checkered pattern triangle.
+Use only the primary solid shape oval, checkered pattern square, and checkered pattern triangle in a triangle formation. Ignore any small objects within the images and exclude the solid shape rectangle.
+Create a diamond pattern with dotted pattern rectangle at top, dotted pattern circle at bottom, grid pattern circle at left, and dotted pattern square at right
+Position the striped pattern triangle to the left of the striped pattern square, do not use the solid shape triangle or striped pattern square
+Arrange the striped pattern square and checkered pattern square side by side, exclude the dotted pattern square and solid shape circle
+Place the grid pattern rectangle and striped pattern rectangle on top of the grid pattern oval background, ignore the dotted pattern rectangle
+Place the grid pattern triangle and grid pattern oval on top of the dotted pattern square background, ignore the grid pattern triangle
+Arrange all four objects: dotted pattern circle, checkered pattern oval, dotted pattern oval, and striped pattern circle in a 2x2 grid formation
+Focus only on the main dotted pattern circle and dotted pattern oval, arrange them side by side. Ignore all small distractor objects and the checkered pattern square, striped pattern square.
+Arrange the striped pattern square and solid shape rectangle side by side, exclude the solid shape oval and striped pattern triangle
+Place the dotted pattern square on top of the checkered pattern circle, ignore the striped pattern rectangle and striped pattern circle
+Put the grid pattern square below the solid shape oval, ignore other shapes
+Place the checkered pattern triangle, grid pattern square, and grid pattern triangle in a horizontal line, do not use the solid shape square
+Focus only on the main grid pattern triangle and grid pattern square, arrange them side by side. Ignore all small distractor objects and the grid pattern oval, dotted pattern square.
+Stack dotted pattern oval on striped pattern rectangle vertically and dotted pattern square on dotted pattern circle vertically, then place both stacks side by side
+Put the striped pattern square below the dotted pattern circle, ignore other shapes
+Layer checkered pattern rectangle and solid shape triangle over the grid pattern circle backdrop, do not use the striped pattern circle
+Create a cluster with checkered pattern circle, grid pattern triangle, and striped pattern triangle, do not include the solid shape circle
+Position the striped pattern oval to the left of the dotted pattern triangle, do not use the dotted pattern oval or striped pattern triangle
+Form a line with grid pattern circle, grid pattern rectangle, checkered pattern circle, and dotted pattern circle from left to right
+Arrange all four objects: striped pattern circle, checkered pattern circle, grid pattern square, and dotted pattern triangle in a 2x2 grid formation
+Put the grid pattern triangle below the checkered pattern rectangle, ignore other shapes
+Stack the dotted pattern triangle on striped pattern triangle and place dotted pattern triangle beside them, ignore the striped pattern square
+Create a diamond pattern with striped pattern oval at top, checkered pattern oval at bottom, dotted pattern triangle at left, and grid pattern circle at right
+Focus only on the main dotted pattern triangle and checkered pattern rectangle, arrange them side by side. Ignore all small distractor objects and the grid pattern oval, solid shape rectangle.
+Arrange the solid shape triangle, grid pattern rectangle, and checkered pattern square in a triangle formation, ignore the striped pattern triangle
+Place grid pattern triangle and striped pattern circle in the center with grid pattern circle and dotted pattern square surrounding them
+Create a cluster with checkered pattern oval, striped pattern square, and striped pattern rectangle, do not include the striped pattern oval
+Overlap the dotted pattern oval with the solid shape circle, ignore the remaining shapes
+Create a diamond pattern with solid shape triangle at top, striped pattern oval at bottom, grid pattern rectangle at left, and checkered pattern square at right
+Overlap the grid pattern oval with the dotted pattern triangle, ignore the remaining shapes
+Use the striped pattern circle as base and arrange striped pattern triangle and grid pattern oval on it, exclude the solid shape square
+Arrange all four objects: striped pattern oval, checkered pattern oval, grid pattern oval, and checkered pattern oval in a 2x2 grid formation
+Arrange the checkered pattern square and striped pattern oval side by side, exclude the striped pattern square and checkered pattern triangle
+Place the dotted pattern square and checkered pattern circle on top of the dotted pattern triangle background, ignore the grid pattern square
+Position the checkered pattern oval to the left of the checkered pattern oval, do not use the solid shape circle or striped pattern triangle
+Create a cluster with striped pattern square, striped pattern square, and grid pattern square, do not include the dotted pattern triangle
+Use only the primary checkered pattern oval, checkered pattern circle, and dotted pattern triangle in a triangle formation. Ignore any small objects within the images and exclude the grid pattern oval.
+Use the solid shape rectangle as base and arrange grid pattern triangle and dotted pattern oval on it, exclude the dotted pattern circle
+Focus only on the main solid shape rectangle and grid pattern square, arrange them side by side. Ignore all small distractor objects and the striped pattern rectangle, striped pattern circle.
+Use only the primary solid shape triangle, dotted pattern circle, and grid pattern square in a triangle formation. Ignore any small objects within the images and exclude the striped pattern circle.
+Use only the primary solid shape oval, solid shape circle, and dotted pattern square in a triangle formation. Ignore any small objects within the images and exclude the dotted pattern triangle.
+Use the solid shape square as base and arrange dotted pattern oval and striped pattern triangle on it, exclude the striped pattern circle
+Layer solid shape triangle and dotted pattern oval over the solid shape square backdrop, do not use the checkered pattern triangle
+Place the grid pattern square on top of the striped pattern circle, ignore the solid shape square and striped pattern circle
+Place the striped pattern square on top of the grid pattern rectangle, ignore the checkered pattern square and dotted pattern circle
+Use the striped pattern rectangle as base and arrange grid pattern triangle and solid shape square on it, exclude the grid pattern circle
+Layer dotted pattern triangle and checkered pattern triangle over the solid shape triangle backdrop, do not use the grid pattern circle
+Place the striped pattern rectangle, grid pattern square, and striped pattern rectangle in a horizontal line, do not use the grid pattern oval
+Arrange the striped pattern circle, grid pattern triangle, and grid pattern circle in a triangle formation, ignore the striped pattern circle
+Focus only on the main grid pattern triangle and dotted pattern circle, arrange them side by side. Ignore all small distractor objects and the checkered pattern circle, dotted pattern rectangle.
+Place the dotted pattern square and grid pattern rectangle on top of the grid pattern square background, ignore the checkered pattern square
+Focus only on the main striped pattern triangle and grid pattern circle, arrange them side by side. Ignore all small distractor objects and the dotted pattern circle, checkered pattern circle.
+Layer striped pattern oval and striped pattern circle over the striped pattern circle backdrop, do not use the striped pattern circle
+Put the dotted pattern circle below the grid pattern oval, ignore other shapes
+Arrange the solid shape square, dotted pattern circle, and checkered pattern square in a triangle formation, ignore the dotted pattern circle
+Put the striped pattern triangle below the checkered pattern oval, ignore other shapes
+Overlap the checkered pattern rectangle with the solid shape square, ignore the remaining shapes
+Place the solid shape oval and solid shape triangle on top of the striped pattern square background, ignore the solid shape rectangle
+Position the checkered pattern triangle to the left of the striped pattern oval, do not use the solid shape triangle or grid pattern oval
+Arrange all four objects: checkered pattern square, dotted pattern triangle, solid shape oval, and checkered pattern square in a 2x2 grid formation
+Use only the primary striped pattern rectangle, grid pattern circle, and grid pattern oval in a triangle formation. Ignore any small objects within the images and exclude the solid shape triangle.
+Put the dotted pattern triangle in center with grid pattern oval and dotted pattern oval around it, exclude the dotted pattern triangle
+Arrange the grid pattern rectangle and striped pattern circle side by side, exclude the solid shape triangle and checkered pattern oval
+Place striped pattern oval and dotted pattern rectangle in the center with grid pattern rectangle and striped pattern square surrounding them
+Put the solid shape square below the checkered pattern oval, ignore other shapes
